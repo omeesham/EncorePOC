@@ -1,0 +1,11 @@
+Application: https://navigator.training.psav.com
+User: s-tst-navi-crm2@psav.com
+Password: Aut0m@t1onN@v2
+
+Explore the crm app interface , create a test plan for 
+https://psavcustomersqa.crm.dynamics.com/main.aspx?appid=d05771f7-d483-41b2-9672-5333d8eaa013&forceUCI=1&pagetype=dashboard&type=system&_canOverride=true
+using credential
+User: s-tst-navi-CRM@psav.com
+Password: 7zsHhW0CvUmR3s$
+
+Opportunity Number: OP15296451
